@@ -1,0 +1,2 @@
+# wordgame-client
+Websocket client
